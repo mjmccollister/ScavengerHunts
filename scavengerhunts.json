@@ -1,7 +1,7 @@
-{
+[
   {
     "id": 1,
     "huntName": "First Example Hunt",
     "huntDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempor est at tortor consequat, non eleifend dolor viverra. Duis vel nibh ultrices, tempor lectus in, posuere eros. Sed sit amet mi in nulla bibendum consequat ut eget sapien. Aenean pharetra leo est, eu vulputate risus lobortis dignissim. Aenean quis finibus dolor. Cras sollicitudin eget arcu sed lobortis. Integer semper tellus imperdiet justo condimentum, nec eleifend mauris cursus. Nulla facilisis nisi at nibh imperdiet, nec facilisis tellus euismod. Curabitur nunc ante, congue non arcu finibus, tristique ullamcorper lacus.",
   },
-}
+]
