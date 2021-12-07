@@ -1,22 +1,7 @@
 {
   {
     "id": 1,
-    "huntName": 'First Example Hunt',
-    "huntDesc": 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempor est at tortor consequat, non eleifend dolor viverra. Duis vel nibh ultrices, tempor lectus in, posuere eros. Sed sit amet mi in nulla bibendum consequat ut eget sapien. Aenean pharetra leo est, eu vulputate risus lobortis dignissim. Aenean quis finibus dolor. Cras sollicitudin eget arcu sed lobortis. Integer semper tellus imperdiet justo condimentum, nec eleifend mauris cursus. Nulla facilisis nisi at nibh imperdiet, nec facilisis tellus euismod. Curabitur nunc ante, congue non arcu finibus, tristique ullamcorper lacus. ',
-  },
-{
-    "id": 2,
-    "huntName": 'Second Example Hunt',
-    "huntDesc": 'Aenean pretium hendrerit lobortis. Curabitur eu auctor mauris. Etiam convallis, urna ac ullamcorper tristique, erat est fringilla ligula, nec lobortis magna eros eu dolor. Curabitur eu arcu id mi egestas molestie. Integer sem mi, laoreet eget justo ac, viverra elementum nulla. Mauris ultricies lacinia ullamcorper. Etiam placerat neque ac arcu porttitor, ut convallis lorem luctus. Sed feugiat efficitur tempus. Proin convallis, nunc quis porttitor rhoncus, turpis ipsum viverra ligula, eget varius ante tortor a diam. ',
-  },
-{
-    "id": 3,
-    "huntName": 'Third Example Hunt',
-    "huntDesc": 'Nam hendrerit dapibus ipsum a feugiat. In id laoreet est, nec tincidunt velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut vel purus eget nibh venenatis molestie vitae vitae magna. Pellentesque sit amet arcu at erat condimentum fringilla ac in dui. Curabitur suscipit, tortor vitae ultrices convallis, enim sem tempor ex, ac eleifend nisl urna nec lorem. Nullam nec pellentesque justo. Curabitur id feugiat arcu, in egestas lectus. Etiam consectetur, felis id pretium maximus, augue nulla fermentum nibh, vel tincidunt enim lacus sit amet magna. In dapibus dapibus rutrum. Sed eget est tempus, molestie eros sed, ornare ante. Pellentesque condimentum arcu ac nibh blandit, nec eleifend eros ultrices. Aenean vel sem consequat, consectetur neque at, tincidunt erat. Duis lobortis tellus ultrices laoreet pulvinar. Integer faucibus fringilla elit id iaculis. ',
-  },
-{
-    "id": 4,
-    "huntName": 'Fourth Example Hunt',
-    "huntDesc": 'Suspendisse nec ornare diam. Integer imperdiet urna et magna sodales auctor. Etiam vel orci massa. Sed ut auctor neque, non tincidunt augue. Aenean vel porta metus, posuere imperdiet massa. In in metus quis sapien semper vestibulum ac eget quam. Integer venenatis sit amet nibh vitae semper. Nunc nisi dolor, eleifend id vulputate non, aliquam a mauris. Vestibulum id quam sed eros hendrerit faucibus sit amet non libero. Nunc id interdum erat. Maecenas justo diam, tempor scelerisque consequat ac, placerat a sapien. Maecenas non ex et enim pulvinar lobortis. Maecenas at neque dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. ',
+    "huntName": "First Example Hunt",
+    "huntDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempor est at tortor consequat, non eleifend dolor viverra. Duis vel nibh ultrices, tempor lectus in, posuere eros. Sed sit amet mi in nulla bibendum consequat ut eget sapien. Aenean pharetra leo est, eu vulputate risus lobortis dignissim. Aenean quis finibus dolor. Cras sollicitudin eget arcu sed lobortis. Integer semper tellus imperdiet justo condimentum, nec eleifend mauris cursus. Nulla facilisis nisi at nibh imperdiet, nec facilisis tellus euismod. Curabitur nunc ante, congue non arcu finibus, tristique ullamcorper lacus.",
   },
 }
